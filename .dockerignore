@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+.vscode
+.idea
+settings/local_settings.py
+logs/
+debug.log
+tests/
+test_data/
+Dockerfile.dev
+docker-compose.dev.yml
+.git
+.svn
